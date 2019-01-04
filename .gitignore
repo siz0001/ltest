@@ -21,3 +21,8 @@ yarn-error.log*
 *.sw*
 
 /node_modules
+# Cordova
+/src-cordova/www
+/src-cordova/platforms
+/src-cordova/plugins
+/public/cordova.js
